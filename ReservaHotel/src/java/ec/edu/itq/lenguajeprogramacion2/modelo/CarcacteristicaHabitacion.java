@@ -18,10 +18,7 @@ import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 
-/**
- *
- * @author Marcos
- */
+
 @Entity
 @Table(name = "carcacteristica_habitacion")
 @NamedQueries({

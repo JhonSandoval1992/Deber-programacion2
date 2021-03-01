@@ -9,10 +9,7 @@ import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-/**
- *
- * @author Marcos
- */
+
 public abstract class Generico<T> {
 
     private Class<T> entityClass;

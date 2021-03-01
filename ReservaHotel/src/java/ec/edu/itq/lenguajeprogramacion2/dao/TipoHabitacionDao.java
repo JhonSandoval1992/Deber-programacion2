@@ -11,10 +11,7 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-/**
- *
- * @author Marcos
- */
+
 @Stateless
 public class TipoHabitacionDao extends Generico<TipoHabitacion> {
 
